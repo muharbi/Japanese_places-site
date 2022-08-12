@@ -535,7 +535,7 @@ textarea {
 
   .intro{
       min-height: 100vh;
-      background: url(/images/Hero.jpg) no-repeat center;
+      background: url(../images/Hero.jpg) no-repeat center;
       background-size: cover;
       padding-top: 263px;
       padding-bottom: 223px;
@@ -565,7 +565,7 @@ textarea {
   }
 
   .form_search_info{
-      background: transparent url(/images/Oval.svg) no-repeat left 7px;
+      background: transparent url(../images/Oval.svg) no-repeat left 7px;
       width: 297px;
       border: 0;
       border-bottom: 2px solid #BFC0C5;
@@ -672,12 +672,12 @@ textarea {
       line-height: 24px;
       color: #006DFE;
       text-decoration: none;
-      background: url(/images/Shape.svg) no-repeat 95% center;
+      background: url(../images/Shape.svg) no-repeat 95% center;
       transition: 200ms;
   }
 
   .benefits_card_more:hover, .benefits_card_more:focus{
-      background: url(/images/Shape.svg) no-repeat right center;
+      background: url(../images/Shape.svg) no-repeat right center;
   }
 
   /* block benefits end */
@@ -700,7 +700,7 @@ textarea {
       text-decoration: none;
       color: #006DFE;
       padding-right: 59px;
-      background: url(/images/Shape.svg) no-repeat right center;
+      background: url(../images/Shape.svg) no-repeat right center;
   }
 
   .places_title_view:hover, .places_title_view:active {
@@ -818,12 +818,12 @@ textarea {
       line-height: 24px;
       color: #006DFE;
       text-decoration: none;
-      background: url(/images/Shape.svg) no-repeat 95% center;
+      background: url(../images/Shape.svg) no-repeat 95% center;
       transition: 200ms;
   }
 
   .tour_more:hover, .tour_card_more:focus{
-      background: url(/images/Shape.svg) no-repeat right center;
+      background: url(../images/Shape.svg) no-repeat right center;
 }
 
 .tour{
@@ -883,7 +883,7 @@ textarea {
       line-height: 24px;
       color: #FFFFFF;
       padding-right: 20px;
-      background: url(/images/heard-icon.svg) no-repeat right;
+      background: url(../images/heard-icon.svg) no-repeat right;
 }
 
 .top_card_comments-value{
@@ -892,7 +892,7 @@ textarea {
       line-height: 24px;
       color: #FFFFFF;
       padding-right: 23px;
-      background: url(/images/Comment-icon.svg) no-repeat right;
+      background: url(../images/Comment-icon.svg) no-repeat right;
 }
 
 .top_card_likes{
@@ -1122,7 +1122,7 @@ textarea {
         margin-right: 0;
         width: 100%;
         padding-bottom: 12px;
-        background: transparent url(/images/Oval.svg) no-repeat left 2px;
+        background: transparent url(../images/Oval.svg) no-repeat left 2px;
     }
 
     .form_search_info::placeholder{
